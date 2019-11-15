@@ -1,2 +1,8 @@
 # smartBrainAPI
-express.js server for facerecognition project
+Created using node.js / express.js.
+
+Serves as the server for the Face Recognition App.
+
+The server communicates with the front-end and PostgreSQL back-end.
+
+Server is deployed on heroku.
